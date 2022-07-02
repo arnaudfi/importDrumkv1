@@ -1,5 +1,5 @@
 # importDrumkv1
-Bash script to easily import a drum kit in [drumkv1](https://drumkv1.sourceforge.io/) (linux software)
+Bash script to easily import a drum kit in [drumkv1](https://drumkv1.sourceforge.io/) (an old-school drum-kit sampler for linux)
 
 To work :
 All the samples need to be in the same folder  
