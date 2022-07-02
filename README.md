@@ -4,7 +4,7 @@ Bash script to easily import a drum kit in [drumkv1](https://drumkv1.sourceforge
 To work :
 All the samples need to be in the same folder  
 The .drumkv1 file you create with the script need to be in the same folder than the samples  
-You need to install [zenity](https://github.com/GNOME/zenity)  
+You need (if it is not already) to install [zenity](https://github.com/GNOME/zenity)  
 
 To use :  
 Download importDrumkv1.sh  
