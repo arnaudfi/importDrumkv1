@@ -1,4 +1,7 @@
 # importDrumkv1
+
+IMPORTANT : There is an already existing soft called [drumkv1gen](https://gitlab.com/AudioFranky/drumkv1gen) wich does the same but better ! So you better use drumkv1gen
+
 Bash script to easily import a drum kit in [drumkv1](https://drumkv1.sourceforge.io/) (an old-school drum-kit sampler for linux)
 
 To work :
