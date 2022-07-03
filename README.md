@@ -12,6 +12,7 @@ You need (if it is not already) to install [zenity](https://github.com/GNOME/zen
 To use :  
 Download importDrumkv1.sh  
 Make it executable  
+Execute it
 Select the folder with the samples you want in your drumkit  
 Give a name to the corresponding .drumkv1 file (place it in the same folder)  
 
